@@ -1,0 +1,11 @@
+/frontend/config/
+/frontend/tests/
+/frontend/vagrant/
+/frontend/vendor/
+/frontend/web/
+/frontend/widgets/Alert.php
+/frontend/views/site/
+/frontend/assets/AppAsset.php
+/frontend/models/User.php
+/frontend/runtime/.gitignore
+/frontend/runtime/.gitignore
